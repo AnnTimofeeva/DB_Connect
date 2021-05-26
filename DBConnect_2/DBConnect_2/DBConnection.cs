@@ -11,6 +11,7 @@ namespace DBConnect
 {
     class DBConnection
     {
+        //test
         //server name
         //database
         //user name
